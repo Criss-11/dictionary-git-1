@@ -28,3 +28,8 @@ Tworzy nowy branch
 
 ### git branch -d develop
 Usuwa gałąź o nazwie develop 
+
+### git merge develop
+Łączy ze sobą gałąź master i develop
+
+`git merge develop`
